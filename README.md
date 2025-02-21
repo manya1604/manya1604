@@ -1,5 +1,10 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://github.com/manya1604)
-<h1 align="center">Hi 👋, I'm Manya Mangla</h1>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=100&duration=4000&lines=Hi+There!+👋;+I'm+Manya+Mangla!;" />
+</h1>
+
+<h2 align="center">A Cloud Enthusiast student at UPES Dehradun,Uttarakhand</h2>
 <h3 align="center">Code, Create, Repeat 🚀</h3>
 
 <div align="center">
@@ -23,6 +28,9 @@
 </div>
 
 ---
+## 🐍 Contribution Graph
+![Snake animation](https://github.com/manya1604/manya1604/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 📈 **GitHub Stats**
 <p align="center">
